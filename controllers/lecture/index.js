@@ -1,3 +1,5 @@
 module.exports = {
-  // getInfo: require("./getInfo"),
+  createLecture: require("./createLecture"),
+  selectLecture: require("./selectLecture"),
+  selectLectureList: require("./selectLectureList"),
 };
